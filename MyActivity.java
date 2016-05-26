@@ -1,4 +1,7 @@
+
+//testing 2nd commit
 package com.example.shivs.myapplication;
+
 
 import android.app.Activity;
 import android.content.pm.PackageManager;
